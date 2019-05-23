@@ -22,7 +22,11 @@
 .idea
 .idea\*
 .idea/workspace.xml
+.idea/compiler.xml
+.idea/misc.xml
 *.iml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/workspace.xml
+.idea/workspace.xml
